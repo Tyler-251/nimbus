@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nimbus-dev-22102-authRole",
+      "UnauthRoleArn": "arn:aws:iam::617057808357:role/amplify-nimbus-dev-22102-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::617057808357:role/amplify-nimbus-dev-22102-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nimbus-dev-22102-deployment",
+      "UnauthRoleName": "amplify-nimbus-dev-22102-unauthRole",
+      "StackName": "amplify-nimbus-dev-22102",
+      "StackId": "arn:aws:cloudformation:us-east-1:617057808357:stack/amplify-nimbus-dev-22102/d62f5b10-7a1e-11ef-8be2-0affdd7bca67",
+      "AmplifyAppId": "d1zhvc8zhcuiwy"
+    }
+  }
+}
