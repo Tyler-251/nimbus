@@ -10,6 +10,11 @@
       "StackName": "amplify-nimbus-dev-22102",
       "StackId": "arn:aws:cloudformation:us-east-1:617057808357:stack/amplify-nimbus-dev-22102/d62f5b10-7a1e-11ef-8be2-0affdd7bca67",
       "AmplifyAppId": "d1zhvc8zhcuiwy"
+    },
+    "categories": {
+      "auth": {
+        "nimbus48631e6e": {}
+      }
     }
   }
 }
